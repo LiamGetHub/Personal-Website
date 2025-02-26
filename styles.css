@@ -63,3 +63,9 @@ header {
     text-decoration: none;
     color: #333;
 }
+
+.project-box h3 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
