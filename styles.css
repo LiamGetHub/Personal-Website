@@ -185,3 +185,25 @@ header {
     font-size: 18px;
     line-height: 1.6;
 }
+
+
+
+#about {
+    text-align: center;
+    padding: 50px 10%;
+    background: #ffffff;
+}
+
+#about h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#about p {
+    font-size: 1.2rem;
+    color: #555;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
